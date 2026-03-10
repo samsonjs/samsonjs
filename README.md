@@ -6,4 +6,4 @@ Most of my recent open source work is in Ruby and Swift. I'm a maintainer on [gr
 
 Back in the day I made [strftime](https://github.com/samsonjs/strftime), a strftime implementation for JavaScript that somehow picked up 650+ stars, and [format](https://github.com/samsonjs/format), a printf-like formatter for JS. In my more masochistic days I went cross-eyed reading Intel's mod-r/m docs and wrote this x86 [compiler](https://github.com/samsonjs/compiler) in Ruby. The last month that I lived out in Shawnigan Lake, I read The Little Schemer and wrote a little Scheme in C, called [lake](https://github.com/samsonjs/lake). My website uses this old thing, [gitter](https://github.com/samsonjs/gitter), which is a GitHub API client for Node and browsers and somehow still works.
 
-I make tiny fixes and improvements to other open source projects now and then. And I've contributed dozens of typo fixes, which I'm possibly most proud of.
+I make tiny fixes and improvements to other open source projects now and then. And I've contributed dozens of typo fixes, of which I'm possibly most proud.
